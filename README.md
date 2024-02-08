@@ -1,6 +1,7 @@
 # README
 
-This repository contains C code implementing two mathematical formulas (`formula1` and `formula2`) along with test functions to verify their correctness. Additionally, it includes assembly code for optimizing `formula2` using SIMD instructions.
+This repository contains C code implementing two mathematical formulas (`formula1` and `formula2`) along with test functions to verify their correctness. 
+
 
 ## Formula 1:
 <img src="https://github.com/guyreuveni33/formula/assets/116805344/81dba5ec-f008-4a51-ad69-b85185753dca" width="400">
