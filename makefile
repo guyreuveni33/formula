@@ -1,5 +1,4 @@
-#206398596 Guy Reuveni
-#208189126 Niv Swisa
+
 
 all: part2.out
 
