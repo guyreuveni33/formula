@@ -1,6 +1,4 @@
-/*206398596 Guy Reuveni
-208189126 Niv Swisa
-*/
+
 #include <immintrin.h>
 #include <stdio.h>
 #include <math.h>
